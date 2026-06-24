@@ -19,10 +19,10 @@
   },
   "homepage": "https://github.com/clurts/iplaymusic#readme",
   "devDependencies": {
-    "@babel/core": "^7.11.1",
-    "@babel/preset-env": "^7.11.0",
+    "@babel/core": "^8.0.1",
+    "@babel/preset-env": "^8.0.2",
     "gulp": "^4.0.2",
-    "gulp-babel": "^8.0.0",
+    "gulp-babel": "^8.1.0",
     "gulp-connect": "^5.7.0",
     "gulp-ejs": "^5.1.0",
     "gulp-imagemin": "^7.1.0",
